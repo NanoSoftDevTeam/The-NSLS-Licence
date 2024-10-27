@@ -23,37 +23,34 @@ To keep your license valid, you must:
 - Include this license in every source code file that uses the software.
 - If you have a main file (like the one that starts with `int main()`), put this license at the top.
 
-## 7. Ownership
-NanoSoft owns the software, which means you don’t own it outright. You’re just licensed to use it.
-
-## 8. What Happens If You Break the Rules
+## 7. What Happens If You Break the Rules
 If you violate any part of this license, you’ll lose your right to use the software. This means you’ll need to stop using it and delete any copies you have.
 
-## 9. No Warranties
+## 8. No Warranties
 We provide the software as-is. This means we don’t guarantee it will work perfectly or that it will meet your expectations.
 
-## 10. Limitation of Liability
+## 9. Limitation of Liability
 If something goes wrong while using the software, NanoSoft isn’t liable for any damages or issues that arise. You use the software at your own risk.
 
-## 11. Indemnification
+## 10. Indemnification
 If someone tries to sue us because of your use of the software, you agree to help us out and cover any related costs.
 
-## 12. Legal Stuff
+## 11. Legal Stuff
 This agreement is governed by the laws of your area. Any disputes will be handled in your local courts.
 
-## 13. The Whole Agreement
+## 12. The Whole Agreement
 This document is the entire agreement between you and NanoSoft regarding the software. It replaces any previous discussions we may have had.
 
-## 14. Making Changes
+## 13. Making Changes
 If we need to make changes to this agreement, they must be in writing and signed by both parties. Just because we let something slide once doesn’t mean it’s a permanent change.
 
-## 15. If Part of This License Doesn’t Hold Up
+## 14. If Part of This License Doesn’t Hold Up
 If any part of this agreement is found to be invalid, the rest of it still applies.
 
-## 16. Assignments
+## 15. Assignments
 You can’t transfer your license to someone else without our permission, but we can transfer it without asking you.
 
-## 17. Quick Summary of the Rules
+## 16. Quick Summary of the Rules
 - Use the software as intended.
 - Don’t modify it.
 - Don’t share or sell it.
